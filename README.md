@@ -10,7 +10,7 @@ After training 800 epochs using 30% of the data for validation, I obtained a val
 
 The following confusion matrix shows the predictions of the network:
 
-![alt text](confusion_matrix.png)
+![alt text](confusion_matrix.PNG)
 
 As seen, the classifier is very robust, due to nearly zero entries on the side diagonals.
 
